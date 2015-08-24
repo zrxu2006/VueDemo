@@ -21,3 +21,4 @@ H:\GitRepo\VueDemo\VueDemo\bin\zh-Hans\System.Web.Helpers.resources.dll
 H:\GitRepo\VueDemo\VueDemo\bin\zh-Hans\System.Web.Mvc.resources.dll
 H:\GitRepo\VueDemo\VueDemo\obj\Debug\VueDemo.dll
 H:\GitRepo\VueDemo\VueDemo\obj\Debug\VueDemo.pdb
+H:\GitRepo\VueDemo\VueDemo\obj\Debug\VueDemo.csprojResolveAssemblyReference.cache
